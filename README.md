@@ -1,1 +1,1 @@
-# FIA-Mycorrhiza
+Zhu, Kai, M Luke McCormack, Richard A Lankau, J Franklin Egan, and Nina Wurzburger. “Association of Ectomycorrhizal Trees with High Carbon-to-Nitrogen Ratio Soils across Temperate Forests Is Driven by Smaller Nitrogen Not Larger Carbon Stocks.” Journal of Ecology 106, no. 2 (March 2018): 524–35. https://doi.org/10.1111/1365-2745.12918.
