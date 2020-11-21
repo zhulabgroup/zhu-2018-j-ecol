@@ -1,6 +1,6 @@
 # This project
-/Data
-/Models
+/data
+/models
 
 # History files
 .Rhistory
