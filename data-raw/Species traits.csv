@@ -1,0 +1,272 @@
+spcd,common name,Genus,Species,Species2,phy,myc,spcd,totdbh,Order,family,Clade,Phycat1,Phycat2,Leaf N_mg_g,Sample_Size_LeafN
+128,pond pine,Pinus,serotina,Pinus serotina,G,e,128,747.02,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,8.55,16
+121,longleaf pine,Pinus,palustris,Pinus palustris,G,e,121,2540.8,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,8.68,5
+988,white-mangrove,Laguncularia,racemosa,Laguncularia racemosa,A,a,988,35.8,Myrtales,Combretaceae,Malvids,Other,Other,8.877777778,9
+841,dwarf live oak,Quercus,minima,Quercus minima,A,e,841,165.6,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,8.9,1
+111,slash pine,Pinus,elliottii,Pinus elliottii,G,e,111,11513.95,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,9.35,6
+131,loblolly pine,Pinus,taeda,Pinus taeda,G,e,131,45544.4,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,10.13061538,65
+989,American mangrove,Rhizophora,mangle,Rhizophora mangle,A,a,989,8.4,Malpighiales,Rhizophoraceae,Fabids,Other,Other,10.26923077,26
+136,Austrian pine,Pinus,nigra,Pinus nigra,G,e,136,20.2,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,10.35636897,329
+110,shortleaf pine,Pinus,echinata,Pinus echinata,G,e,110,7940.46,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,10.45,4
+992,melaleuca,Melaleuca,quinquenervia,Melaleuca quinquenervia,A,a,992,19.2,Myrtales,Myrtaceae,Malvids,Other,Other,10.6,1
+591,American holly,Ilex,opaca,Ilex opaca,A,a,591,1370.03,Aquifoliales,Aquifoliaceae,Asterids,Other,Other,10.99479,2
+132,Virginia pine,Pinus,virginiana,Pinus virginiana,G,e,132,5871.02,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,11.03333333,3
+261,eastern hemlock,Tsuga,canadensis,Tsuga canadensis,G,e,261,11050.4,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,11.13333333,9
+43,Atlantic white-cedar,Chamaecyparis,thyoides,Chamaecyparis thyoides,G,a,43,6.3,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,11.15,2
+126,pitch pine,Pinus,rigida,Pinus rigida,G,e,126,2195.73,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,11.26666667,9
+97,red spruce,Picea,rubens,Picea rubens,G,e,97,8812.8,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,11.30945946,37
+12,balsam fir,Abies,balsamea,Abies balsamea,G,e,12,15328.9,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,11.45870787,89
+125,red pine,Pinus,resinosa,Pinus resinosa,G,e,125,6299.3,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,11.47896938,96
+409,mockernut hickory,Carya,alba,Carya alba,A,e,409,5257.68,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,11.55,2
+95,black spruce,Picea,mariana,Picea mariana,G,e,95,6381.1,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,11.69426216,134
+221,baldcypress,Taxodium,distichum,Taxodium distichum,G,a,221,590.1,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,11.9,4
+222,pondcypress,Taxodium,ascendens,Taxodium ascendens,G,a,222,1548.76,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,12.5,1
+122,ponderosa pine,Pinus,ponderosa,Pinus ponderosa,G,e,122,19.3,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,12.61383871,31
+91,Norway spruce,Picea,abies,Picea abies,G,e,91,380.5,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,12.61735847,983
+202,Douglas-fir,Pseudotsuga,menziesii,Pseudotsuga menziesii,G,e,202,0,,,,,,12.63788571,105
+816,scrub oak,Quercus,ilicifolia,Quercus ilicifolia,A,e,816,1.2,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,12.66666667,3
+15,white fir,Abies,concolor,Abies concolor,G,e,15,0,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,12.70183333,12
+819,turkey oak,Quercus,laevis,Quercus laevis,A,e,819,448.92,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,12.78333333,6
+721,redbay,Persea,borbonia,Persea borbonia,A,a,721,450.54,Laurales,Lauraceae,Magnolids,Other,Other,12.815,20
+940,West Indian mahogany,Swietenia,mahagoni,Swietenia mahagoni,A,a,940,0,,,,,,13.175,4
+107,sand pine,Pinus,clausa,Pinus clausa,G,e,107,1429.45,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,13.2,1
+105,jack pine,Pinus,banksiana,Pinus banksiana,G,e,105,4352.7,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,13.32610845,422
+94,white spruce,Picea,glauca,Picea glauca,G,e,94,3159.5,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,13.40814775,80
+130,Scotch pine,Pinus,sylvestris,Pinus sylvestris,G,e,130,1352.2,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,13.42803626,1565
+842,bluejack oak,Quercus,incana,Quercus incana,A,e,842,31.9,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,13.5,2
+824,blackjack oak,Quercus,marilandica,Quercus marilandica,A,e,824,701.64,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,13.786,1
+611,sweetgum,Liquidambar,styraciflua,Liquidambar styraciflua,A,a,611,13485.36,Saxifragales,Altingiaceae,Malvids,Other,Other,14.40423323,62
+858,camphortree,Cinnamomum,camphora,Cinnamomum camphora,A,a,858,0,Laurales,Lauraceae,Magnolids,Other,Other,14.76898129,7
+67,southern redcedar,Juniperus,virginiana,Juniperus virginiana,G,a,67,95.2,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,14.95,8
+68,eastern redcedar,Juniperus,virginiana,Juniperus virginiana,G,a,68,5709.32,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,14.95,8
+820,laurel oak,Quercus,laurifolia,Quercus laurifolia,A,e,820,2278.34,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,15,3
+491,flowering dogwood,Cornus,florida,Cornus florida,A,a,491,1690.53,Cornales,Cornaceae,Asterids,Other,Other,15.05814786,28
+691,water tupelo,Nyssa,aquatica,Nyssa aquatica,A,a,691,123.2,Cornales,Cornaceae,Asterids,Other,Other,15.1,1
+129,eastern white pine,Pinus,strobus,Pinus strobus,G,e,129,16471.97,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,15.29515103,117
+838,live oak,Quercus,virginiana,Quercus virginiana,A,e,838,1411.31,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,15.71875,8
+652,southern magnolia,Magnolia,grandiflora,Magnolia grandiflora,A,a,652,100,Magnoliales,Magnoliaceae,Magnolids,Other,Other,15.72857143,7
+806,scarlet oak,Quercus,coccinea,Quercus coccinea,A,e,806,4586.31,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,15.86923077,13
+812,southern red oak,Quercus,falcata,Quercus falcata,A,e,812,4133.95,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,15.896,5
+827,water oak,Quercus,nigra,Quercus nigra,A,e,827,5575.38,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,16.01871429,7
+896,Java plum,Syzygium,cumini,Syzygium cumini,A,a,896,0,,,,,,16.15,8
+835,post oak,Quercus,stellata,Quercus stellata,A,e,835,6507.34,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,16.351,2
+711,sourwood,Oxydendrum,arboreum,Oxydendrum arboreum,A,er,711,2467.31,Ericales,Ericaceae,Asterids,Other,Other,16.4,8
+694,swamp tupelo,Nyssa,biflora,Nyssa biflora,A,a,694,3125.07,Cornales,Cornaceae,Asterids,Other,Other,16.51333333,15
+693,blackgum,Nyssa,sylvatica,Nyssa sylvatica,A,a,693,5610.19,Cornales,Cornaceae,Asterids,Other,Other,16.51333333,15
+834,Shumard oak,Quercus,shumardii,Quercus shumardii,A,e,834,356.44,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,16.6,1
+936,European mountain-ash,Sorbus,aucuparia,Sorbus aucuparia,A,a,936,0,Rosales,Rosaceae,Fabids,Other,Other,16.62520553,20
+241,northern white-cedar,Thuja,occidentalis,Thuja occidentalis,G,a,241,14219.2,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,16.70555556,18
+379,gray birch,Betula,populifolia,Betula populifolia,A,e,379,789.1,Fagales,Betulaceae,Fabids,Other,Betulaceae,16.82222222,9
+316,red maple,Acer,rubrum,Acer rubrum,A,a,316,53289.74,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,16.97220175,212
+995,tungoil tree,Vernicia,fordii,Vernicia fordii,A,a,995,2.3,Malpighiales,Euphorbiaceae,Fabids,Other,Other,17.00816884,3
+544,green ash,Fraxinus,pennsylvanica,Fraxinus pennsylvanica,A,a,544,4937.48,Lamiales,Oleaceae,Asterids,Other,Oleaceae,17.02,11
+412,red hickory,Carya,ovalis,Carya ovalis,A,e,412,3,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,17.08947368,19
+403,pignut hickory,Carya,glabra,Carya glabra,A,e,403,5972.76,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,17.08947368,19
+818,California black oak,Quercus,kelloggii,Quercus kelloggii,A,e,818,0,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,17.19125,4
+825,swamp chestnut oak,Quercus,michauxii,Quercus michauxii,A,e,825,262.19,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,17.20333333,6
+832,chestnut oak,Quercus,prinus,Quercus prinus,A,e,832,9583.18,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,17.26694444,18
+731,American sycamore,Platanus,occidentalis,Platanus occidentalis,A,a,731,1512.56,Proteales,Platanaceae,Asterids,Other,Other,17.2989925,8
+854,gumbo limbo,Bursera,simaruba,Bursera simaruba,A,a,854,0,,,,,,17.35742614,9
+741,balsam poplar,Populus,balsamifera,Populus balsamifera,A,b,741,1492.9,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,17.75278833,18
+986,black-mangrove,Avicennia,germinans,Avicennia germinans,A,a,986,2.3,Lamiales,Avicenniaceae,Asterids,Other,Other,18,1
+837,black oak,Quercus,velutina,Quercus velutina,A,e,837,11160.17,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,18.00285714,7
+16,Fraser fir,Abies,fraseri,Abies fraseri,G,e,16,0,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,18.07777778,9
+753,Lombardy poplar,Populus,nigra,Populus nigra,A,b,753,0,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,18.33816667,6
+407,shagbark hickory,Carya,ovata,Carya ovata,A,e,407,4288.43,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,19.03636364,11
+471,eastern redbud,Cercis,canadensis,Cercis canadensis,A,a,471,468.55,Rosales,Cannabaceae,Fabids,Other,Other,19.11578947,19
+391,"American hornbeam, musclewood",Carpinus,caroliniana,Carpinus caroliniana,A,e,391,995.44,Fagales,Betulaceae,Fabids,Other,Betulaceae,19.16666667,6
+71,tamarack (native),Larix,laricina,Larix laricina,G,e,71,1568,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,19.18708338,72
+421,American chestnut,Castanea,dentata,Castanea dentata,A,e,421,43.1,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,19.1924,5
+320,Norway maple,Acer,platanoides,Acer platanoides,A,a,320,0,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,19.28585146,16
+771,"sweet cherry, domesticated",Prunus,avium,Prunus avium,A,a,771,17.3,Rosales,Rosaceae,Fabids,Other,Other,19.35994898,14
+763,chokecherry,Prunus,virginiana,Prunus virginiana,A,a,763,141.3,Rosales,Rosaceae,Fabids,Other,Other,19.62054286,35
+621,yellow-poplar,Liriodendron,tulipifera,Liriodendron tulipifera,A,a,621,13962.6,Magnoliales,Magnoliaceae,Magnolids,Other,Other,19.66863731,26
+972,American elm,Ulmus,americana,Ulmus americana,A,a,972,6539.34,Rosales,Ulmaceae,Fabids,Other,Other,20.02952632,19
+804,swamp white oak,Quercus,bicolor,Quercus bicolor,A,e,804,376.2,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,20.2,1
+543,black ash,Fraxinus,nigra,Fraxinus nigra,A,a,543,3416.7,Lamiales,Oleaceae,Asterids,Other,Oleaceae,20.2,5
+561,"ginkgo, maidenhair tree",Ginkgo,biloba,Ginkgo biloba,A,a,561,0,,,,,,20.3,1
+681,white mulberry,Morus,alba,Morus alba,A,a,681,56.1,Rosales,Moraceae,Fabids,Other,Other,20.36594143,7
+833,northern red oak,Quercus,rubra,Quercus rubra,A,e,833,19315.38,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,20.46307059,135
+921,peachleaf willow,Salix,amygdaloides,Salix amygdaloides,A,b,921,38.8,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,20.6,1
+802,white oak,Quercus,alba,Quercus alba,A,e,802,24152.78,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,20.77583462,114
+331,Ohio buckeye,Aesculus,glabra,Aesculus glabra,A,a,331,277.9,Sapindales,Hippocastanaceae,Malvids,Other,Other,20.8,1
+424,Chinese chestnut,Castanea,mollissima,Castanea mollissima,A,e,424,0,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,20.932,5
+923,Bebb willow,Salix,bebbiana,Salix bebbiana,A,b,923,2.1,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,21.1,1
+977,rock elm,Ulmus,thomasii,Ulmus thomasii,A,a,977,10.7,Rosales,Ulmaceae,Fabids,Other,Other,21.2,5
+809,northern pin oak,Quercus,ellipsoidalis,Quercus ellipsoidalis,A,e,809,1337.4,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,21.26788889,54
+452,northern catalpa,Catalpa,speciosa,Catalpa speciosa,A,a,452,18,Lamiales,Bignoniaceae,Asterids,Other,Other,21.6,2
+712,"paulownia, empress-tree",Paulownia,tomentosa,Paulownia tomentosa,A,a,712,41.3,Lamiales,Paulowniaceae,Asterids,Other,Other,21.66281143,7
+975,slippery elm,Ulmus,rubra,Ulmus rubra,A,a,975,2292.35,Rosales,Ulmaceae,Fabids,Other,Other,21.83333333,6
+745,plains cottonwood,Populus,deltoides,Populus deltoides,A,b,745,0,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,22.02321429,56
+742,eastern cottonwood,Populus,deltoides,Populus deltoides,A,b,742,1424.9,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,22.02321429,56
+743,bigtooth aspen,Populus,grandidentata,Populus grandidentata,A,b,743,5729,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,22.06666667,9
+402,bitternut hickory,Carya,cordiformis,Carya cordiformis,A,e,402,2111.48,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,22.16666667,6
+318,sugar maple,Acer,saccharum,Acer saccharum,A,a,318,31694.31,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,22.41873154,298
+823,bur oak,Quercus,macrocarpa,Quercus macrocarpa,A,e,823,4109.6,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,22.53564706,34
+319,mountain maple,Acer,spicatum,Acer spicatum,A,a,319,123.8,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,22.74,5
+373,river birch,Betula,nigra,Betula nigra,A,e,373,458.84,Fagales,Betulaceae,Fabids,Other,Betulaceae,22.76,5
+655,mountain or Fraser magnolia,Magnolia,fraseri,Magnolia fraseri,A,a,655,174.3,Magnoliales,Magnoliaceae,Magnolids,Other,Other,22.9,2
+601,butternut,Juglans,cinerea,Juglans cinerea,A,a,601,298.9,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,23.48333333,6
+761,pin cherry,Prunus,pensylvanica,Prunus pensylvanica,A,a,761,322.4,Rosales,Rosaceae,Fabids,Other,Other,23.65454545,11
+317,silver maple,Acer,saccharinum,Acer saccharinum,A,a,317,2995.95,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,23.66667,1
+762,black cherry,Prunus,serotina,Prunus serotina,A,a,762,12841.03,Rosales,Rosaceae,Fabids,Other,Other,23.68903475,39
+541,white ash,Fraxinus,americana,Fraxinus americana,A,a,541,9975.77,Lamiales,Oleaceae,Asterids,Other,Oleaceae,23.74360028,37
+744,swamp cottonwood,Populus,heterophylla,Populus heterophylla,A,b,744,6.2,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,24.02691,1
+752,silver poplar,Populus,alba,Populus alba,A,b,752,0,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,24.33676615,13
+654,bigleaf magnolia,Magnolia,macrophylla,Magnolia macrophylla,A,a,654,4.9,Magnoliales,Magnoliaceae,Magnolids,Other,Other,24.575,1
+922,black willow,Salix,nigra,Salix nigra,A,b,922,1425.9,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,24.8,5
+372,sweet birch,Betula,lenta,Betula lenta,A,e,372,4036.9,Fagales,Betulaceae,Fabids,Other,Betulaceae,24.86666667,3
+462,hackberry,Celtis,occidentalis,Celtis occidentalis,A,a,462,1880.9,Rosales,Cannabaceae,Fabids,Other,Other,24.9,6
+375,paper birch,Betula,papyrifera,Betula papyrifera,A,e,375,14345.1,Fagales,Betulaceae,Fabids,Other,Betulaceae,25.39986759,130
+513,grand eucalyptus,Eucalyptus,grandis,Eucalyptus grandis,A,e,513,0,,,,,,25.45,12
+602,black walnut,Juglans,nigra,Juglans nigra,A,a,602,3531.29,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,25.55,8
+315,striped maple,Acer,pensylvanicum,Acer pensylvanicum,A,a,315,760.22,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,25.91210695,187
+313,boxelder,Acer,negundo,Acer negundo,A,a,313,2204.48,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,25.98980333,12
+371,yellow birch,Betula,alleghaniensis,Betula alleghaniensis,A,e,371,8074.4,Fagales,Betulaceae,Fabids,Other,Betulaceae,26.1,28
+927,white willow,Salix,alba,Salix alba,A,b,927,0,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,26.27466667,3
+953,Carolina basswood,Tilia,americana,Tilia americana,A,e,953,0,Malvales,Malvaceae,Malvids,Other,Other,26.33214286,28
+952,white basswood,Tilia,americana,Tilia americana,A,e,952,1,Malvales,Malvaceae,Malvids,Other,Other,26.33214286,28
+951,American basswood,Tilia,americana,Tilia americana,A,e,951,6071.64,Malvales,Malvaceae,Malvids,Other,Other,26.33214286,28
+531,American beech,Fagus,grandifolia,Fagus grandifolia,A,e,531,13171.09,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,26.60881818,330
+746,quaking aspen,Populus,tremuloides,Populus tremuloides,A,b,746,14871.4,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,26.73775207,124
+341,ailanthus,Ailanthus,altissima,Ailanthus altissima,A,a,341,491.6,Sapindales,Simaroubaceae,Malvids,Other,Other,26.987658,5
+682,red mulberry,Morus,rubra,Morus rubra,A,a,682,578.85,Rosales,Moraceae,Fabids,Other,Other,27.15,2
+974,Siberian elm,Ulmus,pumila,Ulmus pumila,A,a,974,26.6,Rosales,Ulmaceae,Fabids,Other,Other,27.3575495,15
+701,eastern hophornbeam,Ostrya,virginiana,Ostrya virginiana,A,e,701,2334.44,Fagales,Betulaceae,Fabids,Other,Betulaceae,27.67207207,111
+352,white alder,Alnus,rhombifolia,Alnus rhombifolia,A,e,352,0,Fagales,Betulaceae,Fabids,Other,Betulaceae,28.0625,2
+521,common persimmon,Diospyros,virginiana,Diospyros virginiana,A,a,521,771.04,Ericales,Ebenaceae,Asterids,Other,Other,28.2,1
+552,honeylocust,Gleditsia,triacanthos,Gleditsia triacanthos,A,a,552,777.3,Fabales,Fabaceae,Fabids,Other,Other,28.45425667,3
+355,European alder,Alnus,glutinosa,Alnus glutinosa,A,e,355,0,Fagales,Betulaceae,Fabids,Other,Betulaceae,29.31266667,33
+345,"mimosa, silktree",Albizia,julibrissin,Albizia julibrissin,A,a,345,5.6,Fabales,Ingeae,Fabids,Other,Other,30.3,2
+901,black locust,Robinia,pseudoacacia,Robinia pseudoacacia,A,a,901,3045.99,Fabales,Fabaceae,Fabids,Other,Other,33.16580568,18
+546,blue ash,Fraxinus,quadrangulata,Fraxinus quadrangulata,A,a,546,165.9,Lamiales,Oleaceae,Asterids,Other,Oleaceae,33.36667,1
+997,Russian-olive,Elaeagnus,angustifolia,Elaeagnus angustifolia,A,a,997,0,,,,,,39.8,1
+764,peach,Prunus,persica,Prunus persica,A,a,764,0,Rosales,Rosaceae,Fabids,Other,Other,39.80198025,40
+907,Florida silver palm,Coccothrinax,argentata,Coccothrinax argentata,A,a,907,0,,,,,,,
+61,Ashe juniper,Juniperus,ashei,Juniperus ashei,G,a,61,0,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,,
+876,Florida strangler fig,Ficus,aurea,Ficus aurea,A,a,876,0,Rosales,Moraceae,Fabids,Other,Other,,
+451,southern catalpa,Catalpa,bignonioides,Catalpa bignonioides,A,a,451,0,Lamiales,Bignoniaceae,Asterids,Other,Other,,
+581,Carolina silverbell,Halesia,carolina,Halesia carolina,A,a,581,0,Ericales,Styraccaceae,Asterids,Other,Other,,
+413,southern shagbark hickory,Carya,carolinae-septentrionalis,Carya carolinae-septentrionalis,A,e,413,0,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+262,Carolina hemlock,Tsuga,caroliniana,Tsuga caroliniana,G,e,262,0,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+772,"sour cherry, domesticated",Prunus,cerasus,Prunus cerasus,A,a,772,0,Rosales,Rosaceae,Fabids,Other,Other,,
+937,northern mountain-ash,Sorbus,decora,Sorbus decora,A,a,937,0,Rosales,Rosaceae,Fabids,Other,Other,,
+582,two-wing silverbell,Halesia,diptera,Halesia diptera,A,a,582,0,Ericales,Styraccaceae,Asterids,Other,Other,,
+882,"beeftree, longleaf blolly",Guapira,discolor,Guapira discolor,A,e,882,0,,,,,,,
+863,"tietongue, pigeon-plum",Coccoloba,diversifolia,Coccoloba diversifolia,A,a,863,0,,,,,,,
+987,buttonwood-mangrove,Conocarpus,erectus,Conocarpus erectus,A,a,987,0,,,,,,,
+60,Drooping juniper,Juniperus,flaccida,Juniperus flaccida,G,a,60,0,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,,
+853,pond-apple,Annona,glabra,Annona glabra,A,a,853,0,Magnoliales,Annonaceae,Magnolids,Other,Other,,
+664,prairie crab apple,Malus,ioensis,Malus ioensis,A,a,664,0,Rosales,Rosaceae,Fabids,Other,Other,,
+481,yellowwood,Cladrastis,kentukea,Cladrastis kentukea,A,a,481,0,,,,,,,
+463,netleaf hackberry,Celtis,laevigata,Celtis laevigata,A,a,463,0,Rosales,Cannabaceae,Fabids,Other,Other,,
+542,Oregon ash,Fraxinus,latifolia,Fraxinus latifolia,A,a,542,0,Lamiales,Oleaceae,Asterids,Other,Oleaceae,,
+857,belah,Casuarina,lepidophloia,Casuarina lepidophloia,A,e,857,0,,,,,,,
+911,Mexican palmetto,Sabal,mexicana,Sabal mexicana,A,a,911,0,Arecales,Arecaceae,Monocot,Other,Other,,
+913,key thatch palm,Thrinax,morrisii,Thrinax morrisii,A,a,913,0,,,,,,,
+765,Canada plum,Prunus,nigra,Prunus nigra,A,a,765,0,Rosales,Rosaceae,Fabids,Other,Other,,
+844,Oglethorpe oak,Quercus,oglethorpensis,Quercus oglethorpensis,A,e,844,0,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+336,red buckeye,Aesculus,pavia,Aesculus pavia,A,a,336,0,Sapindales,Hippocastanaceae,Malvids,Other,Other,,
+887,fishpoison tree,Piscidia,piscipula,Piscidia piscipula,A,a,887,0,,,,,,,
+845,dwarf chinkapin oak,Quercus,prinoides,Quercus prinoides,A,e,845,0,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+545,pumpkin ash,Fraxinus,profunda,Fraxinus profunda,A,a,545,0,Lamiales,Oleaceae,Asterids,Other,Oleaceae,,
+422,Allegheny chinkapin,Castanea,pumila,Castanea pumila,A,e,422,0,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+926,balsam willow,Salix,pyrifolia,Salix pyrifolia,A,b,926,0,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,,
+873,red stopper,Eugenia,rhombea,Eugenia rhombea,A,a,873,0,,,,,,,
+358,roundleaf serviceberry,Amelanchier,sanguinea,Amelanchier sanguinea,A,a,358,0,Rosales,Rosaceae,Fabids,Other,Other,,
+929,weeping willow,Salix,sepulcralis,Salix sepulcralis,A,b,929,0,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,,
+976,September elm,Ulmus,serotina,Ulmus serotina,A,a,976,0,Rosales,Ulmaceae,Fabids,Other,Other,,
+808,Durand oak,Quercus,sinuata,Quercus sinuata,A,e,808,0,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+310,maple spp.,Acer,spp.,Acer spp.,A,a,310,0,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,,
+330,"buckeye, horsechestnut spp.",Aesculus,spp.,Aesculus spp.,A,a,330,0,Sapindales,Hippocastanaceae,Malvids,Other,Other,,
+350,alder spp.,Alnus,spp.,Alnus spp.,A,e,350,0,Fagales,Betulaceae,Fabids,Other,Betulaceae,,
+420,chestnut spp.,Castanea,spp.,Castanea spp.,A,e,420,0,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+460,hackberry spp.,Celtis,spp.,Celtis spp.,A,a,460,0,Rosales,Cannabaceae,Fabids,Other,Other,,
+860,citrus spp.,Citrus,spp.,Citrus spp.,A,a,860,0,,,,,,,
+510,eucalyptus spp.,Eucalyptus,spp.,Eucalyptus spp.,A,e,510,0,,,,,,,
+600,walnut spp.,Juglans,spp.,Juglans spp.,A,a,600,0,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+70,larch spp.,Larix,spp.,Larix spp.,G,e,70,0,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+650,magnolia spp.,Magnolia,spp.,Magnolia spp.,A,a,650,0,Magnoliales,Magnoliaceae,Magnolids,Other,Other,,
+690,tupelo spp.,Nyssa,spp.,Nyssa spp.,A,a,690,0,Cornales,Cornaceae,Asterids,Other,Other,,
+720,bay spp.,Persea,spp.,Persea spp.,A,a,720,0,Laurales,Lauraceae,Magnolids,Other,Other,,
+90,spruce spp.,Picea,spp.,Picea spp.,G,e,90,0,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+100,pine spp.,Pinus,spp.,Pinus spp.,G,e,100,0,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+729,sycamore spp.,Platanus,spp.,Platanus spp.,A,a,729,0,Proteales,Platanaceae,Asterids,Other,Other,,
+909,royal palm spp.,Roystonea,spp.,Roystonea spp.,A,a,909,0,,,,,,,
+934,mountain-ash spp.,Sorbus,spp.,Sorbus spp.,A,a,934,0,Rosales,Rosaceae,Fabids,Other,Other,,
+260,hemlock spp.,Tsuga,spp.,Tsuga spp.,G,e,260,0,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+337,painted buckeye,Aesculus,sylvatica,Aesculus sylvatica,A,a,337,0,Sapindales,Hippocastanaceae,Malvids,Other,Other,,
+886,Florida poisontree,Metopium,toxiferum,Metopium toxiferum,A,a,886,0,,,,,,,
+658,umbrella magnolia,Magnolia,tripetala,Magnolia tripetala,A,a,658,0,Magnoliales,Magnoliaceae,Magnolids,Other,Other,,
+520,persimmon spp.,Diospyros,spp.,Diospyros spp.,A,a,520,1,Ericales,Ebenaceae,Asterids,Other,Other,,
+692,Ogeechee tupelo,Nyssa,ogeche,Nyssa ogeche,A,a,692,1.5,Cornales,Cornaceae,Asterids,Other,Other,,
+423,Ozark chinkapin,Castanea,pumila,Castanea pumila,A,e,423,1.7,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+662,southern crab apple,Malus,angustifolia,Malus angustifolia,A,a,662,1.8,Rosales,Rosaceae,Fabids,Other,Other,,
+357,common serviceberry,Amelanchier,arborea,Amelanchier arborea,A,a,357,2,Rosales,Rosaceae,Fabids,Other,Other,,
+996,smoketree,Cotinus,obovatus,Cotinus obovatus,A,a,996,3.1,Sapindales,Anacardiaceae,Malvids,Other,Other,,
+323,chalk maple,Acer,leucoderme,Acer leucoderme,A,a,323,3.6,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,,
+836,Delta post oak,Quercus,similis,Quercus similis,A,e,836,5.1,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+925,coastal plain willow,Salix,caroliniana,Salix caroliniana,A,b,925,6,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,,
+973,cedar elm,Ulmus,crassifolia,Ulmus crassifolia,A,a,973,6.6,Rosales,Ulmaceae,Fabids,Other,Other,,
+57,redcedar/juniper spp.,Juniperus,spp.,Juniperus spp.,G,a,57,7.1,Pinales,Cupressaceae,Pinales,Other,Cupressaceae,,
+406,nutmeg hickory,Carya,myristiciformis,Carya myristiciformis,A,e,406,9.1,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+502,downy hawthorn,Crataegus,mollis,Crataegus mollis,A,a,502,11.2,Rosales,Rosaceae,Fabids,Other,Other,,
+96,blue spruce,Picea,pungens,Picea pungens,G,e,96,11.8,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+680,mulberry spp.,Morus,spp.,Morus spp.,A,a,680,12.9,Rosales,Moraceae,Fabids,Other,Other,,
+10,fir spp.,Abies,spp.,Abies spp.,G,e,10,13.8,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+740,cottonwood and poplar spp.,Populus,spp.,Populus spp.,A,b,740,15.78,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,,
+766,American plum,Prunus,americana,Prunus americana,A,a,766,18.5,Rosales,Rosaceae,Fabids,Other,Other,,
+571,Kentucky coffeetree,Gymnocladus,dioicus,Gymnocladus dioicus,A,a,571,20,Fabales,Fabaceae,Fabids,Other,Other,,
+950,basswood spp.,Tilia,spp.,Tilia spp.,A,e,950,20.1,Malvales,Malvaceae,Malvids,Other,Other,,
+663,sweet crab apple,Malus,coronaria,Malus coronaria,A,a,663,20.7,Rosales,Rosaceae,Fabids,Other,Other,,
+370,birch spp.,Betula,spp.,Betula spp.,A,e,370,24.1,Fagales,Betulaceae,Fabids,Other,Betulaceae,,
+970,elm spp.,Ulmus,spp.,Ulmus spp.,A,a,970,24.46,Rosales,Ulmaceae,Fabids,Other,Other,,
+381,"chittamwood, gum bumelia",Sideroxylon,lanuginosum,Sideroxylon lanuginosum,A,a,381,30.91,Ericales,Sapotaceae,Asterids,Other,Other,,
+994,Chinese tallowtree,Triadica,sebifera,Triadica sebifera,A,a,994,31.1,Malpighiales,Euphorbiaceae,Fabids,Other,Other,,
+540,ash spp.,Fraxinus,spp.,Fraxinus spp.,A,a,540,32.35,Lamiales,Oleaceae,Asterids,Other,Oleaceae,,
+580,silverbell spp.,Halesia,spp.,Halesia spp.,A,a,580,32.9,Ericales,Styraccaceae,Asterids,Other,Other,,
+915,other palms,Family Arecaceae,not listed above,Family Arecaceae not listed above,A,a,915,34.4,Arecales,Arecaceae,Monocot,Other,Other,,
+999,Other or unknown live tree,Tree,unknown,Tree unknown,0,n,999,37.45,,none,,,,,
+450,catalpa spp.,Catalpa,spp.,Catalpa spp.,A,a,450,37.5,Lamiales,Bignoniaceae,Asterids,Other,Other,,
+722,"water-elm, planertree",Planera,aquatica,Planera aquatica,A,a,722,38.3,Rosales,Ulmaceae,Fabids,Other,Other,,
+367,pawpaw,Asimina,triloba,Asimina triloba,A,a,367,44.3,Magnoliales,Annonaceae,Magnolids,Other,Other,,
+299,Unknown dead conifer,Tree,evergreen,Tree evergreen,G,n,299,46.8,,none,,,,,
+935,American mountain-ash,Sorbus,americana,Sorbus americana,A,a,935,48.6,Rosales,Rosaceae,Fabids,Other,Other,,
+920,willow spp.,Salix,spp.,Salix spp.,A,b,920,53.38,Malpighiales,Salicaceae,Fabids,Other,Salicaceae,,
+501,cockspur hawthorn,Crataegus,crus-galli,Crataegus crus-galli,A,a,501,54.5,Rosales,Rosaceae,Fabids,Other,Other,,
+551,waterlocust,Gleditsia,aquatica,Gleditsia aquatica,A,a,551,74.2,Fabales,Fabaceae,Fabids,Other,Other,,
+760,cherry and plum spp.,Prunus,spp.,Prunus spp.,A,a,760,78.1,Rosales,Rosaceae,Fabids,Other,Other,,
+993,chinaberry,Melia,azedarach,Melia azedarach,A,a,993,79.8,Sapindales,Meliaceae,Malvids,Other,Other,,
+410,sand hickory,Carya,pallida,Carya pallida,A,e,410,88.85,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+311,Florida maple,Acer,barbatum,Acer barbatum,A,a,311,88.9,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,,
+404,pecan,Carya,illinoinensis,Carya illinoinensis,A,e,404,103.9,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+400,hickory spp.,Carya,spp.,Carya spp.,A,e,400,106.42,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+123,Table Mountain pine,Pinus,pungens,Pinus pungens,G,e,123,118.4,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+115,spruce pine,Pinus,glabra,Pinus glabra,G,e,115,160.24,Pinales,Pinaceae,Pinales,Pinaceae,Pinaceae,,
+314,black maple,Acer,nigrum,Acer nigrum,A,a,314,164.7,Sapindales,Sapindaceae,Malvids,Sapindaceae,Sapindaceae,,
+840,dwarf post oak,Quercus,margarettiae,Quercus margarettiae,A,e,840,172.7,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+401,water hickory,Carya,aquatica,Carya aquatica,A,e,401,181.7,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+800,oak spp,Quercus,spp.,Quercus spp.,A,e,800,190.3,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+332,yellow buckeye,Aesculus,flava,Aesculus flava,A,a,332,193.2,Sapindales,Hippocastanaceae,Malvids,Other,Other,,
+548,Carolina ash,Fraxinus,caroliniana,Fraxinus caroliniana,A,a,548,211.66,Lamiales,Oleaceae,Asterids,Other,Oleaceae,,
+998,Unknown dead hardwood,Tree,broadleaf,Tree broadleaf,A,n,998,277.23,,none,,,,,
+405,shellbark hickory,Carya,laciniosa,Carya laciniosa,A,e,405,306.6,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+822,overcup oak,Quercus,lyrata,Quercus lyrata,A,e,822,384.37,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+828,Texas red oak,Quercus,texana,Quercus texana,A,e,828,384.4,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+651,cucumbertree,Magnolia,acuminata,Magnolia acuminata,A,a,651,424.98,Magnoliales,Magnoliaceae,Magnolids,Other,Other,,
+500,hawthorn spp.,Crataegus,spp.,Crataegus spp.,A,a,500,430.63,Rosales,Rosaceae,Fabids,Other,Other,,
+660,apple spp.,Malus,spp.,Malus spp.,A,a,660,510.2,Rosales,Rosaceae,Fabids,Other,Other,,
+461,sugarberry,Celtis,laevigata,Celtis laevigata,A,a,461,532.04,Rosales,Cannabaceae,Fabids,Other,Other,,
+641,Osage-orange,Maclura,pomifera,Maclura pomifera,A,a,641,542.8,Rosales,Moraceae,Fabids,Other,Other,,
+817,shingle oak,Quercus,imbricaria,Quercus imbricaria,A,e,817,630.6,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+356,serviceberry spp.,Amelanchier,spp.,Amelanchier spp.,A,a,356,707.1,Rosales,Rosaceae,Fabids,Other,Other,,
+830,pin oak,Quercus,palustris,Quercus palustris,A,e,830,797.3,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+912,cabbage palmetto,Sabal,palmetto,Sabal palmetto,A,a,912,935.3,Arecales,Arecaceae,Monocot,Other,Other,,
+653,sweetbay,Magnolia,virginiana,Magnolia virginiana,A,a,653,995.58,Magnoliales,Magnoliaceae,Magnolids,Other,Other,,
+813,cherrybark oak,Quercus,pagoda,Quercus pagoda,A,e,813,1014.52,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+971,winged elm,Ulmus,alata,Ulmus alata,A,a,971,1274.22,Rosales,Ulmaceae,Fabids,Other,Other,,
+831,willow oak,Quercus,phellos,Quercus phellos,A,e,831,1371.8,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+555,loblolly-bay,Gordonia,lasianthus,Gordonia lasianthus,A,a,555,1377.85,Ericales,Theaceae,Asterids,Other,Other,,
+826,chinkapin oak,Quercus,muehlenbergii,Quercus muehlenbergii,A,e,826,1533.6,Fagales,Fagaceae,Fabids,Fagaceae,Fagaceae,,
+408,black hickory,Carya,texana,Carya texana,A,e,408,1688.78,Fagales,Juglandaceae,Fabids,Other,Juglandaceae,,
+931,sassafras,Sassafras,albidum,Sassafras albidum,A,a,931,3604.61,Laurales,Lauraceae,Magnolids,Other,Other,,
