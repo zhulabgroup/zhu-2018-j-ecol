@@ -2,8 +2,8 @@
 library(tidyverse)
 library(R2jags)
 
-in.path <- "Models/Soil model data.rds"
-out.path <- "Models/CN ratio.rds"
+in.path <- "models/Soil model data.rds"
+out.path <- "models/CN ratio.rds"
 
 
 # Setup model -------------------------------------------------------------

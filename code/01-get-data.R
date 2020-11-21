@@ -6,7 +6,7 @@ library(maptools)
 
 # Get plot data -----------------------------------------------------------
 
-plot.dat <- read_rds("Data/Soil/Plot table.rds") %>%
+plot.dat <- read_rds("data-raw/Plot table.rds") %>%
   mutate(eco = stringr::str_sub(ecosubcd, 1, 4)) %>% # ecoregion: province level (highest)
   filter(lon >= -100) # eastern US
 
@@ -27,7 +27,7 @@ clim.dat <- plot.dat %>%
 
 # Get soil data -----------------------------------------------------------
 
-soil.dat <- read_rds("Data/Soil/Soil table.rds") %>%
+soil.dat <- read_rds("data-raw/Soil table.rds") %>%
   mutate(
     c.org = bulk_density * c_org_pct / 100,
     c.iog = bulk_density * c_inorg_pct / 100,
@@ -68,9 +68,9 @@ soil.dat <- soil.dat %>%
 
 # Get species trait data --------------------------------------------------
 
-spec.dat <- read_csv("Data/Species Traits/Species traits for Kai w LeafN final.csv") %>%
+spec.dat <- read_csv("data-raw/Species traits.csv") %>%
   select(spcd, myc, clade = Clade, phycat0 = phy, phycat1 = Phycat1, phycat2 = Phycat2, leaf_ntg = `Leaf N_mg_g`) %>%
-  left_join(read_rds("Data/Soil/Species table.rds"), by = "spcd") %>%
+  left_join(read_rds("data-raw/Species table.rds"), by = "spcd") %>%
   mutate(sp = tolower(species_symbol)) %>%
   select(spcd, sp, genus, species, common_name, myc:leaf_ntg) %>%
   filter(myc != "er") %>% # get rid of 'er' species (only 1)
@@ -83,7 +83,7 @@ spec.dat <- read_csv("Data/Species Traits/Species traits for Kai w LeafN final.c
 
 # Get tree basal area (BA) data -------------------------------------------
 
-tree.dat <- read_rds("Data/Soil/Tree table.rds") %>%
+tree.dat <- read_rds("data-raw/Tree table.rds") %>%
   filter(statuscd == 1) %>% # only for live trees
   mutate(
     plt.area = 4 * ifelse(dia < 5, 13.5e-4, 168e-4), # plot area for 4 units
@@ -190,7 +190,7 @@ all.dat <- soil.dat %>%
   drop_na() %>%
   arrange(plt)
 
-write_rds(all.dat, "Models/Soil model data.rds")
+write_rds(all.dat, "models/Soil model data.rds")
 
 
 # EDA plots ---------------------------------------------------------------
@@ -200,14 +200,14 @@ all.dat %>%
   # filter(lyr == 'ff_total') %>%
   select(-plt, -lon, -lat, -lyr, -sc, -sn) %>%
   GGally::ggcorr(label = T)
-ggsave("Figures/Correlation matrix.pdf", w = 7, h = 7)
+ggsave("figures/Correlation matrix.pdf", w = 7, h = 7)
 
 # maps of available plots
 # prepare base map
 usfs.prj <- "+proj=aea +lat_1=38 +lat_2=42 +lat_0=40 +lon_0=-82 +x_0=0 +y_0=0 +ellps=clrk66 +datum=NAD83 +units=m"
 latlon.prj <- "+proj=longlat +datum=NAD83"
 
-us_st100.dat <- readShapePoly("Data/GIS/us_st100/us_st100.shp",
+us_st100.dat <- readShapePoly("data-raw/GIS/us_st100.shp",
   proj4string = CRS(usfs.prj)
 ) %>%
   spTransform(CRS(latlon.prj)) %>%
@@ -220,52 +220,4 @@ all.dat %>%
   geom_point(aes(lon, lat), alpha = .5) +
   geom_path(data = us_st100.dat, aes(long, lat, group = group)) +
   coord_map()
-ggsave("Figures/Plot map.pdf", w = 10, h = 10)
-
-# # marginal plot of C ~ N | myc or others
-# var.ls <- all.dat %>%
-#   select(-plt, -lon, -lat, -lyr, -sc, -sn) %>%
-#   colnames()
-#
-# pdf("Figures/Marginal plots.pdf", w = 10, h = 10 * .618)
-# for (grp.var in var.ls) {
-#   sub.dat <- all.dat[, c("lyr", "sc", "sn", grp.var)] %>%
-#     `colnames<-`(c("lyr", "sc", "sn", "grp.val"))
-#
-#   sub.gg <- sub.dat %>%
-#     mutate(grp.cat = ifelse(grp.val > mean(grp.val),
-#       paste0("High (", mean(grp.val) %>% round(2), ", ", max(grp.val) %>% round(2), "]"),
-#       paste0("Low [", min(grp.val) %>% round(2), ", ", mean(grp.val) %>% round(2), "]")
-#     )) %>%
-#     ggplot(aes(sn, sc, col = grp.cat, group = grp.cat)) +
-#     geom_point(alpha = .5) +
-#     geom_smooth(method = "lm", formula = y ~ x - 1, se = F, fullrange = T) +
-#     facet_wrap(~lyr) +
-#     scale_x_sqrt() +
-#     scale_y_sqrt() +
-#     labs(x = "Soil nitrogen (g/cm3)", y = "Soil carbon (g/cm3)", col = grp.var)
-#
-#   print(sub.gg)
-# }
-# dev.off()
-#
-#
-# # Summarize for Rich Phillips, 12/5/2017 ----------------------------------
-#
-# phillips.dat <- all.dat %>%
-#   select(em_pct = myc_e_pct, sc, sn) %>%
-#   mutate(em_cut = cut(em_pct, breaks = seq(0, 1, by = .1), include.lowest = T)) %>%
-#   group_by(em_cut) %>%
-#   summarize(
-#     c_mean = mean(sc), c_se = plotrix::std.error(sc),
-#     n_mean = mean(sn), n_se = plotrix::std.error(sn)
-#   )
-#
-# ggplot(phillips.dat, aes(em_cut)) +
-#   geom_point(aes(y = c_mean)) +
-#   geom_point(aes(y = n_mean)) +
-#   scale_y_log10()
-#
-# write_csv(phillips.dat, "Models/CN summary.csv")
-#
-# unique(all.dat$plt) %>% length()
+ggsave("figures/Plot map.pdf", w = 10, h = 10)

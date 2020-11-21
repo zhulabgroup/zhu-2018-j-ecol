@@ -10,7 +10,7 @@ beta.sum <- vector("list", 3)
 names(beta.sum) <- tag.ls
 
 for (tag in tag.ls) {
-  in.file <- paste0("Models/", tag, ".rds")
+  in.file <- paste0("models/", tag, ".rds")
 
   cov.tag <- read_rds(in.file)$tag$cov
   lyr.tag <- read_rds(in.file)$tag$lyr
@@ -100,7 +100,7 @@ plot_grid(cnr.gg,
   labels = c("a", ""), nrow = 1
 )
 
-ggsave("Figures/Fig 3 Coefplots.pdf", h = 6.18, w = 10)
+ggsave("figures/Fig 3 Coefplots.pdf", h = 6.18, w = 10)
 
 
 # make table --------------------------------------------------------------
@@ -113,4 +113,4 @@ reshape2::melt(beta.sum) %>%
   mutate(val = paste0(med, " (", lwr, ", ", upr, ")")) %>%
   select(Model = mod, Layer = lyr, coef, val) %>%
   spread(coef, val) %>%
-  write_csv("Figures/Tab S1 Coef table.csv")
+  write_csv("figures/Tab S1 Coef table.csv")

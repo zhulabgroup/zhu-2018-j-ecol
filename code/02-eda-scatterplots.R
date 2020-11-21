@@ -3,7 +3,7 @@ library(tidyverse)
 library(cowplot)
 
 
-min1.dat <- read_rds("Models/Soil model data.rds") %>%
+min1.dat <- read_rds("models/Soil model data.rds") %>%
   # filter(lyr %in% c('ff_total', 'min_1', 'min_2')) %>%
   filter(lyr == "min_1") %>%
   mutate(cnr = sc / sn) %>%
@@ -28,7 +28,7 @@ smooth.method <- "auto"
 #   annotation_logticks(sides = "l") +
 #   labs(y = "", x = "EM dominance") + # expression('Soil content (g'~cm^-3*')')
 #   theme_bw()
-# ggsave("Figures/C, N, CN ratio - EM.pdf", h = 10, w = 10 * .618)
+# ggsave("figures/C, N, CN ratio - EM.pdf", h = 10, w = 10 * .618)
 
 # separate panels
 c.gg <- ggplot(min1.dat, aes(em, c)) +
@@ -57,4 +57,4 @@ plot_grid(cnr.gg,
   labels = c("a", ""), nrow = 1
 )
 
-ggsave("Figures/Fig 2 Scatterplots.pdf", h = 6.18, w = 10)
+ggsave("figures/Fig 2 Scatterplots.pdf", h = 6.18, w = 10)

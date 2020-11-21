@@ -1,4 +1,4 @@
-# make maps to show CN ratio and EM%, after meeting with Rick on 5/2/17 in Knoxville, TN
+# make maps to show CN ratio and EM%
 library(tidyverse)
 library(maptools)
 library(cowplot)
@@ -6,13 +6,13 @@ library(cowplot)
 usfs.prj <- "+proj=aea +lat_1=38 +lat_2=42 +lat_0=40 +lon_0=-82 +x_0=0 +y_0=0 +ellps=clrk66 +datum=NAD83 +units=m"
 latlon.prj <- "+proj=longlat +datum=NAD83"
 
-us_st100.dat <- readShapePoly("Data/GIS/us_st100/us_st100.shp",
+us_st100.dat <- readShapePoly("data-raw/GIS/us_st100.shp",
   proj4string = CRS(usfs.prj)
 ) %>%
   spTransform(CRS(latlon.prj)) %>%
   fortify()
 
-min1.dat <- read_rds("Models/Soil model data.rds") %>%
+min1.dat <- read_rds("models/Soil model data.rds") %>%
   filter(lyr == "min_1") %>%
   mutate(cnr = sc / sn) %>%
   filter(cnr > quantile(cnr, .01), cnr < quantile(cnr, .99))
@@ -85,4 +85,4 @@ plot_grid(plot_grid(myc.gg, cnr.gg, labels = c("a", "b"), ncol = 1),
   plot_grid(c.gg, n.gg, labels = c("c", "d"), ncol = 1),
   labels = c("", "")
 )
-ggsave("Figures/Fig 1 Maps.pdf", h = 6.18, w = 10)
+ggsave("figures/Fig 1 Maps.pdf", h = 6.18, w = 10)

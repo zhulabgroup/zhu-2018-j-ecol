@@ -1,8 +1,8 @@
 # Summarize regression coefficients (beta's)
 library(tidyverse)
 
-in.path <- "Models/N only.rds"
-out.path <- "Figures/N only/"
+in.path <- "models/N only.rds"
+out.path <- "figures/N only/"
 if (!file.exists(out.path)) {
   dir.create(out.path)
 }
